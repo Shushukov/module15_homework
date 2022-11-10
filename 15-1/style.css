@@ -1,0 +1,11 @@
+.button {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+.svg1 {
+  background: url(arrow-down-left-circle.svg) no-repeat center;
+}
+.svg2 {
+  background: url(arrow-down-left-circle-fill.svg) no-repeat center;
+}

@@ -1,0 +1,25 @@
+.form {
+  margin-top: 20px;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.chat {
+  margin-top: 20px;
+  width: 400px;
+  height: auto;
+  border: 1px solid black;
+}
+.chat_user {
+  display: flex;
+  flex-flow: column wrap;
+}
+.messages {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 7px;
+  align-self: flex-end;
+  display: flex;
+  margin: 5px;
+}
